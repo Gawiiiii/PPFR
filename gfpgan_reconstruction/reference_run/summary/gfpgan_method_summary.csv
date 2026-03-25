@@ -1,0 +1,7 @@
+method,count,psnr_mean,ssim_mean,asr_avg_mean,valid_pairs_mean
+DuetFace,5,11.171528,0.271555,0.153326,39.00
+ProFace,5,17.322269,0.476018,0.606980,39.00
+MinusFace,5,14.654284,0.416678,0.254088,39.00
+Ours,5,10.428766,0.212211,0.025904,39.00
+AdvFace,0,,,,
+FracFace,0,,,,

@@ -1,6 +1,6 @@
-# GFPGAN Reconstruction Package
+# GFPGAN Reconstruction
 
-This folder packages the latest GFPGAN reconstruction-attack scripts and the actual formal-run data subset used in the `2025CVPR` project.
+A copied package of GFPGAN from `/home/ps/Public/YuanWei`.
 
 Source provenance:
 - Scripts were copied from `/home/ps/Public/YuanWei/2025CVPR`.
@@ -27,5 +27,5 @@ Important path note:
 - Run the scripts from the repository root if you want those relative paths to resolve directly.
 
 Dependency note:
-- This package preserves the latest project-side wrappers, pair data, and directly invoked GFPGAN entry files.
+- This package preserves project-side wrappers, pair data, and directly invoked GFPGAN entry files.
 - End-to-end execution still requires the full runtime environment used by the original project, including the rest of GFPGAN, BasicSR, and related Python dependencies.
